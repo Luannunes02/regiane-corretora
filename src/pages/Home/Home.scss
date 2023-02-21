@@ -1,0 +1,387 @@
+@import "../../styles/variables.scss";
+
+#introduction {
+    background: linear-gradient(0deg, $secondary-color 0%, rgba(255, 255, 255, 1) 21%);
+
+
+    .container {
+        padding: 120px 20px;
+
+        .text-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+            h1 {
+                font-weight: 700;
+                color: $secondary-color;
+                text-shadow: 1px 2px 5px $black-color;
+            }
+
+            h4 {
+                text-shadow: 1px 2px 5px $primary-color;
+            }
+        }
+
+
+
+        .introductionImg-container {
+
+
+            img {
+                width: 750px;
+                border-radius: 25px 11px 23px 40px;
+                box-shadow: 4px 4px 2px $secondary-color;
+
+                @media screen and (min-width: 1171px) and (max-width: 1427px) {
+                    & {
+                        width: 500px;
+                    }
+                }
+
+                @media screen and (min-width: 993px) and (max-width: 1170px) {
+                    & {
+                        width: 600px;
+                    }
+                }
+
+                @media screen and (min-width: 726px) and (max-width: 989px) {
+                    & {
+                        width: 700px;
+                    }
+                }
+
+                @media screen and (min-width: 489px) and (max-width: 725px) {
+                    & {
+                        width: 460px;
+                    }
+                }
+
+                @media screen and (min-width: 395px) and (max-width: 488px) {
+                    & {
+                        width: 370px;
+                    }
+                }
+
+                @media screen and (min-width: 310px) and (max-width: 394px) {
+                    & {
+                        width: 300px;
+                    }
+                }
+
+                @media screen and (min-width: 0px) and (max-width: 309px) {
+                    & {
+                        width: 240px;
+                    }
+                }
+            }
+
+
+
+        }
+    }
+
+
+
+}
+
+#about {
+    min-height: 85vh;
+    background-color: $secondary-color;
+
+    .title-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        h1 {
+            font-weight: bolder;
+            color: $secondary-color;
+            text-shadow: 3px 3px 4px $black-color;
+            background-color: $background-color;
+            text-align: center;
+            width: 450px;
+            border-radius: 5px 10px 20px 10px;
+            box-shadow: 3px 3px 40px $black-color;
+        }
+    }
+
+    .textIntroductionContainer {
+        color: $black-color;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        h1 {
+            font-weight: bold;
+            text-shadow: 1px 3px 2px $primary-color;
+            width: 100%;
+            text-align: left;
+        }
+
+        span {
+            color: $background-color;
+            text-shadow: 1px 3px 2px $black-color;
+        }
+
+        h3 {
+            color: $black-color;
+            text-shadow: 1px 3px 2px $primary-color;
+            font-weight: 700;
+            border-radius: 57px 52px 52px 15px;
+
+            padding: 5px 15px 30px;
+            border-top: 10px solid $background-color;
+            border-bottom: 10px solid $background-color;
+        }
+    }
+
+    .regiane-photo {
+        width: 550px;
+        border-radius: 30% 70% 41% 59% / 30% 30% 70% 70%;
+        filter: drop-shadow(5px 10px 50px #dbba743d);
+
+        @media screen and (min-width: 1171px) and (max-width: 1427px) {
+            & {
+                width: 700px;
+            }
+        }
+
+        @media screen and (min-width: 993px) and (max-width: 1170px) {
+            & {
+                width: 600px;
+            }
+        }
+
+        @media screen and (min-width: 726px) and (max-width: 989px) {
+            & {
+                width: 700px;
+            }
+        }
+
+        @media screen and (min-width: 489px) and (max-width: 725px) {
+            & {
+                width: 500px;
+            }
+        }
+
+        @media screen and (min-width: 0px) and (max-width: 488px) {
+            & {
+                width: 400px;
+            }
+        }
+
+    }
+}
+
+
+#services {
+    min-height: 40vh;
+
+    .services-buy-and-sell {       
+
+        h1 {
+            font-weight: bold;
+            color: $text-color;
+        }
+
+        h3 {
+            color: $text-color;
+            opacity: 0.8;
+            text-transform: uppercase;
+        }
+
+        h4 {
+            color: $secondary-color;
+            border-radius: 10px;
+            padding-bottom: 5px;
+            width: fit-content;
+            border-bottom: 5px solid $secondary-color;
+            text-transform: uppercase;
+            font-weight: 400;
+            text-shadow: 2px 2px 4px $black-color;
+        }
+
+        .servicesDetailsContainer {
+
+            min-height: 35vh;
+            margin-top: 0px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            @media screen and (min-width: 489px) and (max-width: 769px) {
+                & {
+                    margin-left: 100px;
+                }
+            }   
+
+            @media screen and (min-width: 377px) and (max-width: 488px) {
+                & {
+                    margin-left: 50px;
+                }
+            }            
+
+            @media screen and (min-width: 0px) and (max-width: 376px) {
+                & {
+                    margin-left: 0px;
+                }
+            }    
+        }
+    }
+
+    .paralax {
+        background-size: cover;
+        background-attachment: fixed;
+        background-image: url('../../assets/giving-key.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: $text-color;
+        min-height: 50vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        div {
+            margin: 20px 0;
+            border-radius: 20px 10px 60px 10px;
+            text-align: center;
+            border-top: 5px solid $secondary-color;
+            padding: 20px 0px;
+            border-bottom: 5px solid $secondary-color;
+            background-color: rgba(255, 255, 255, 0.3);
+            box-shadow: 2px 5px 20px $background-color;
+        }
+    }
+
+    .serviceDetailContainer {
+        min-height: 45vh;
+        background-color: $black-color;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+            width: 650px;
+            border-radius: 20px 5px 40px 20px;
+
+            @media screen and (min-width: 1383px) and (max-width: 1427px) {
+                & {
+                    width: 600px;
+                }
+            }
+
+            @media screen and (min-width: 1171px) and (max-width: 1382px) {
+                & {
+                    width: 550px;
+                }
+            }
+    
+            @media screen and (min-width: 993px) and (max-width: 1170px) {
+                & {
+                    width: 450px;
+                }
+            }
+    
+            @media screen and (min-width: 726px) and (max-width: 989px) {
+                & {
+                    width: 700px;
+                }
+            }
+    
+            @media screen and (min-width: 489px) and (max-width: 725px) {
+                & {
+                    width: 500px;
+                }
+            }
+    
+            @media screen and (min-width: 363px) and (max-width: 488px) {
+                & {
+                    width: 350px;
+                }
+            }
+
+            @media screen and (min-width: 0px) and (max-width: 362px) {
+                & {
+                    width: 270px;
+                }
+            }
+        }
+
+        p {
+            font-weight: bold;
+            color: $primary-color;
+            text-shadow: 2px 2px 2px #000;
+            height: 100%;
+            display: flex;
+            align-items: center;
+        }
+    }
+}
+
+#imoveisContainer {
+    background-color: $secondary-color;
+
+    h1 {
+        color: $background-color;
+        font-weight: bolder;
+        letter-spacing: 2px;
+        text-shadow: 2px 2px 2px $black-color;
+        border-radius: 10px;
+        padding-bottom: 5px;
+        width: fit-content;
+        border-bottom: 5px solid $black-color;
+        text-transform: uppercase;
+        text-shadow: 2px 2px 4px $black-color;
+    }
+
+    .imoveis-wrap {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+
+#contact {
+    min-height: 50vh;
+    align-items: center;
+
+    h5 {
+        color: $secondary-color;
+        font-weight: bold;
+        letter-spacing: 3px;
+        text-shadow: 1px 1px 1px $text-color;
+        border-bottom: 4px solid $secondary-color;
+        border-radius: 20px;
+        width: fit-content;
+
+    }
+
+    .midiaContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+    }
+
+    h2 {
+        color: $text-color;
+        font-weight: bolder;
+    }
+
+    a {
+        text-decoration: none;
+        color: $text-color;
+    }
+
+    img {
+        width: 60px;
+    }
+
+    p {
+        color: $text-color;
+        width: 250px;
+    }
+}

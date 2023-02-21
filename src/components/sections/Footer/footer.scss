@@ -1,0 +1,12 @@
+@import "../../../styles/variables.scss";
+
+footer {
+    background-color: $black-color;
+    height: 6vh;
+
+    p {
+        opacity: 0.7;
+        color: $background-color;
+        font-weight: bold;
+    }
+}

@@ -1,0 +1,433 @@
+{
+    "imoveis": [
+        {
+            "id": 0,
+            "value": "320.000,00",
+            "adress": "Avenida Ana Saraiva de Menezes, Jardim Gonzaga, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220230331-c0d3cc26-242a-486e-8f00-f3dcde19ca77.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220230335-c747831b-4a47-47b6-b52a-85fff2f5f71d.jpg",
+                "https://user-images.githubusercontent.com/116287208/220230344-8ea129c8-bbd5-4d95-950e-1217ca278c02.jpg",
+                "https://user-images.githubusercontent.com/116287208/220230354-af4029f0-8f55-476f-9f6c-eb422f48c0b0.jpg",
+                "https://user-images.githubusercontent.com/116287208/220230357-b8e046cb-1f26-4b41-90f6-bcfd8bd09c3c.jpg",
+                "https://user-images.githubusercontent.com/116287208/220230368-31587063-3f42-4e74-961d-6aa2a31f80b9.jpg",
+                "https://user-images.githubusercontent.com/116287208/220230372-e2344ecc-0a71-4edc-abb8-f98803b19ff4.jpg"
+            ],
+            "rooms": 3,
+            "space": "190m²",
+            "vacancy": 3,
+            "description": [
+                "LINDA CASA COM ACABAMENTO PEMIUM",
+                "Próximo condomínio cidade kariris",
+                "Terreno 7,5x25,5",
+                "124 área construída ",
+                "Varanda gourmet completo ",
+                "3 suítes",
+                "Dispensa ",
+                "Cerca elétrica ",
+                "Box nos banheiros ",
+                "Porcelanato",
+                "Acabamento de primeira ",
+                "Iluminação toda em led",
+                "Valor: 320 mil",
+                "Faça já sua análise de crédito"
+            ]        
+        },
+        {
+            "id": 1,
+            "value": "320.000,00",
+            "adress": "Rua Vicente Ferreira Duarte, Cidade Universitária, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220231211-211f3bf5-18cc-4a34-a263-4b5e7f358dc5.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220231217-094511e8-3156-49d7-82e2-5e472f5cfc33.jpg",
+                "https://user-images.githubusercontent.com/116287208/220231224-cfd491d2-3b13-4c91-aa1a-8a5289f510d5.jpg",
+                "https://user-images.githubusercontent.com/116287208/220231246-ad40b1a9-1d1d-433d-8341-38a1d0fe3bc4.jpg",
+                "https://user-images.githubusercontent.com/116287208/220231251-add83445-f507-4634-92c3-526a8bd6d439.jpg",
+                "https://user-images.githubusercontent.com/116287208/220231254-cf0e3e59-0ac9-4f5e-9dd3-e30dfe5a5293.jpg",
+                "https://user-images.githubusercontent.com/116287208/220231260-d1751f71-393b-4163-9030-bf8b2e03bb26.jpg",
+                "https://user-images.githubusercontent.com/116287208/220231266-dd2b5703-bca6-47c0-9c0c-318346b17c82.jpg",
+                "https://user-images.githubusercontent.com/116287208/220231269-5cd558b7-4609-4049-8b1d-59edc7612d66.jpg",
+                "https://user-images.githubusercontent.com/116287208/220231273-3c89f53e-ae63-4374-83f6-083786a60c2a.jpg"
+            ],
+            "rooms": 3,
+            "space": "195m²",
+            "vacancy": 2,
+            "description": [
+                "A casa está localizado no bairro Cidade Universitária possui 195 metros quadrados com 3 quartos sendo 2 suites e 2 banheiros"
+            ]        
+        },
+        {
+            "id": 2,
+            "value": "185.000,00",
+            "adress": "Rua Socorro Norões Mota, Jardim Gonzaga, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220233727-96124b51-3c4e-408a-b2eb-74e4ff685e09.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220233731-effb5230-eb5a-4c57-8e85-f146ab218071.jpg",
+                "https://user-images.githubusercontent.com/116287208/220233744-9bc47028-0a85-4a02-b429-3f4df3a2cd1d.jpg",
+                "https://user-images.githubusercontent.com/116287208/220233769-eb5a6559-60a4-41e1-a7ce-86a3b6f14db6.jpg",
+                "https://user-images.githubusercontent.com/116287208/220233781-cbcb69b9-61b6-4956-ac4a-41b0a4c6e645.jpg",
+                "https://user-images.githubusercontent.com/116287208/220233789-541c2847-3207-4664-9b2f-af25b2fca690.jpg",
+                "https://user-images.githubusercontent.com/116287208/220233809-70482513-3505-485f-b3c4-690a09e5415c.jpg",
+                "https://user-images.githubusercontent.com/116287208/220233812-fa110bdf-3e36-4d29-b8bc-f4669c74a40e.jpg"
+            ],
+            "rooms": 3,
+            "space": "100m²",
+            "vacancy": 2,
+            "description": [
+                "Casa pronta",
+                "metragem de 5x30 total de área 150 m²",
+                "3 Quartos sendo uma suíte c/ closet ",
+                "Cozinha integrada com sala",
+                "Iluminação de LED",
+                "Bica ",
+                "Área de serviço coberta",
+                "2 vagas de garagem",
+                "Em fácil acesso aos serviços essenciais, como supermercado, parada de ônibus, posto de gasolina, padarias, açougue, farmácias, academias e escolas.",
+                "Jardim gonzaga próximo a hotel Santa Rosa  ",
+                "",
+                ""
+            ]        
+        },
+        {
+            "id": 3,
+            "value": "175.000,00",
+            "adress": "Rua Magistoso Pinto da Fonseca, Frei Damião, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220234862-a7c26dde-6681-486d-9083-be16192bbabf.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220234870-aafd0257-c853-4cc4-b7a3-f3db941c90f8.jpg",
+                "https://user-images.githubusercontent.com/116287208/220234871-e60c7ce0-1719-4ffc-8564-81bedb7c2b08.jpg",
+                "https://user-images.githubusercontent.com/116287208/220234875-a28514e8-89fb-4240-8365-d1aa0dd99cb4.jpg",
+                "https://user-images.githubusercontent.com/116287208/220234878-f1812d68-f0c2-439b-890e-5ca763e4281f.jpg",
+                "https://user-images.githubusercontent.com/116287208/220234881-2f2b171d-c536-4925-8484-1885b9a8dd72.jpg",
+                "https://user-images.githubusercontent.com/116287208/220234884-adba94d7-bcd7-41ca-931d-bc80f449eace.jpg",
+                "https://user-images.githubusercontent.com/116287208/220234886-ea305f4b-a738-48d8-82f3-8515b7e6402e.jpg",
+                "https://user-images.githubusercontent.com/116287208/220234888-6504ecb6-ef26-4d42-bd22-3e29ed3f2684.jpg",
+                "https://user-images.githubusercontent.com/116287208/220234890-c60a7bb1-1f4b-4ea4-91c1-335f304ae0d8.jpg"
+            ],
+            "rooms": 3,
+            "space": "105m²",
+            "vacancy": 2,
+            "description": [
+                "DISPONÍVEL EM CONSTRUÇÃO",
+                "Área total 7,5X 20",
+                "Cozinha integrada com sala",
+                "Com laje",
+                "3 Quartos sendo uma suíte com closet",
+                "Portas e janelas de madeira",
+                "Bica",
+                "Iluminação de LED",
+                "Cerca elétrica",
+                "2 vagas de garagem",
+                "Bairro: são José ",
+                "Entrada facilitada ",
+                "Aceitamos FGTS com entrada",
+                "",
+                "AGENDA AGORA UMA VISITA"
+            ]        
+        },
+        {
+            "id": 4,
+            "value": "450.000,00",
+            "adress": "Rua Cícero de Alencar Ribeiro, Lagoa Seca, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220235895-131812a0-adf9-487b-981d-47104577b65e.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220235902-aab71bd9-53c6-4209-97b2-c5e7088761ed.jpg",
+                "https://user-images.githubusercontent.com/116287208/220235909-5b9f2f50-4c20-4a1e-bbd6-e66d6e2a3822.jpg",
+                "https://user-images.githubusercontent.com/116287208/220235916-de5581b2-d97d-4898-b401-669f41c1b75f.jpg"
+            ],
+            "rooms": 3,
+            "space": "138m²",
+            "vacancy": 3,
+            "description": [
+                "A casa está localizado no bairro Lagoa Seca próximo supermercado São Luiz ",
+                "Sala com pé direito duplo 5m",
+                "Cozinha com Ilha granito",
+                "Casa na Laje",
+                "Portas internas pau darco",
+                "Iluminação em led",
+                "Área gourmet, bica, churrasqueira e lavabo",
+                "Garagem para 3 Carros",
+                "Piso premium polido ",
+                "1 suíte master",
+                "1 suíte reversível ",
+                "1 quarto Social",
+                "1 WC social",
+                "Janelas com esquadrias pretas",
+                "Porta em vidro laminado champgne com esquadrias alumínio preta em 3 folhas",
+                "Pontos de ar condicionado ",
+                "Box vidro no banheiro ",
+                "Chuveiro elétrico ",
+                "Pias banheiro esculpida",
+                "Fachada platibanda ",
+                "Portao alumínio preto com motor",
+                "Cerca elétrica ",
+                "Interfone",
+                "Grama"
+            ]        
+        },
+        {
+            "id": 5,
+            "value": "430.000,00",
+            "adress": "Rua Manoel Balbino da Silva, Cidade Universitária, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220236790-e3861642-a6d5-44cf-bcff-8cf18b4094a2.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220236792-877084ca-8691-4367-8bb2-c97a1bf0f0c5.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236797-ce3722e2-88ea-4826-b2c6-a9b467b52b77.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236798-db4ab9fb-81c2-49fd-99e1-0e77171b84b2.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236799-852d300e-74c0-4451-9479-1778ad10495d.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236800-0d60e701-46f2-43a1-a77d-737dd967b583.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236804-7ba8846f-9bfb-4d5a-8512-b6d0d5317f64.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236805-f932262e-d348-4cca-a6c3-cf51ceda662c.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236807-6c40252f-880a-4a2e-ad41-75b8656f0b97.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236808-c76728de-fa93-44ba-bf7a-0e7d24f7cd85.jpg",
+                "https://user-images.githubusercontent.com/116287208/220236809-de2f863a-899d-4a6b-9c9b-9d46d3743d80.jpg"
+            ],
+            "rooms": 3,
+            "space": "135m²",
+            "vacancy": 3,
+            "description": [
+                "Casa excelente espaço de lazer ",
+                "localização de grande valorização bairro cidade universitária nas proximidades da universidade Unileão ",
+                "imóvel pronto ",
+                "de 10x23m²",
+                "Com 3 suíte sendo uma com closet ",
+                "Varanda gourmet com churrasqueira ",
+                "excelente espaço pra piscina "
+            ]        
+        },
+        {
+            "id": 6,
+            "value": "315.000,00",
+            "adress": "Rua Lourdes Victória, Cidade Universitária, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220237809-0ec5baba-3b4a-4825-a86a-fdbed333bca7.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220237815-168d5ee6-f8af-47c4-b942-11e150de634d.jpg",
+                "https://user-images.githubusercontent.com/116287208/220237817-8e11df97-c35e-4015-8703-412a8c13f298.jpg",
+                "https://user-images.githubusercontent.com/116287208/220237818-4eb81b98-9d99-427c-8908-8d9997ac3d32.jpg",
+                "https://user-images.githubusercontent.com/116287208/220237820-7bc3c218-a82c-40ea-8dc0-b3d479982c32.jpg",
+                "https://user-images.githubusercontent.com/116287208/220237821-f9a3441e-4534-4c8e-9575-ac8b512b6e9d.jpg",
+                "https://user-images.githubusercontent.com/116287208/220237868-83efa9ad-38b3-4abb-b91f-ce5daaac1d01.jpg",
+                "https://user-images.githubusercontent.com/116287208/220237871-869247bb-e455-4e1a-9c91-f4f6bb513631.jpg",
+                "https://user-images.githubusercontent.com/116287208/220237873-b68694ea-cd00-43b7-b62f-b1ab97cbef6b.jpg"
+            ],
+            "rooms": 3,
+            "space": "135m²",
+            "vacancy": 3,
+            "description": [
+                "A casa no bairro Cidade Universitária com 120 metros quadrados com 3 quartos sendo 1 suite e 2 banheiros"
+            ]        
+        },
+        {
+            "id": 7,
+            "value": "279.000,00",
+            "adress": "Rua Doutora Ângela de Albuquerque Matos, Jardim Gonzaga, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220238809-c6b20a3d-f025-47a3-92b4-68a7bbeadafe.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220238811-ddd51fdd-bec3-4cf4-b657-445567db2bd1.jpg",
+                "https://user-images.githubusercontent.com/116287208/220238812-4c71a044-8d7d-47a7-b8f2-f2421b0c243a.jpg",
+                "https://user-images.githubusercontent.com/116287208/220238813-d5456d3b-29c3-4537-bbbe-81f04e62ec70.jpg",
+                "https://user-images.githubusercontent.com/116287208/220238814-9c2fb239-d9a2-4e61-8ec8-aa3886f5861e.jpg",
+                "https://user-images.githubusercontent.com/116287208/220238815-566258c5-07c1-4ba8-bb53-27ff14f4af04.jpg",
+                "https://user-images.githubusercontent.com/116287208/220238817-435a1ccc-83e5-40e4-aa59-74f34bd60af7.jpg",
+                "https://user-images.githubusercontent.com/116287208/220238819-3bdba7cf-7dd6-4eb0-b5a5-58cbb61d0de9.jpg",
+                "https://user-images.githubusercontent.com/116287208/220238820-0fb5c0dc-75e4-4fcd-a31b-8495aa2fa905.jpg"
+            ],
+            "rooms": 3,
+            "space": "110m²",
+            "vacancy": 3,
+            "description": [
+                "BAIXOUU De 330 mil para 279 mil",
+                "EXCELENTE LOCALIZAÇÃO ",
+                "A poucos metros da Avenida Leão Sampaio, vizinho ao restou jardim",
+                "Tamanho 6x33",
+                "3 quartos sendo uma suíte +1 reversível ",
+                "Varanda gourmet com churrasqueira ",
+                "Com excelente espaço para uma área de lazer ",
+                "Acabamento Premium "
+            ]        
+        },
+        {
+            "id": 8,
+            "value": "400.000,00",
+            "adress": "Rua Frei Damião, Lagoa Seca, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220239399-66bbfeb0-fefc-4855-b6c3-96835e30f231.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220239401-29be157d-96b5-4a30-9b0a-a2264d0f6275.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239403-b51dc1df-0cb3-42ba-9aaf-1992ab3e14f0.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239404-ddc7ffae-8cc9-4125-a005-26d757cfd207.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239407-b35e6eb3-0565-4f04-af1b-221ca917f0e1.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239408-70a01034-5880-4251-88d1-74adeec75360.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239411-8c8d6b2c-5562-4dc8-8332-06ee98649bac.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239413-c841b30d-309e-4b86-9f0c-1518ac4bb97f.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239415-7e11dbad-012e-4d41-b911-12b512b96174.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239416-9a0432cb-0613-419f-bdda-5a04bbb13476.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239418-c1514a5e-ecc3-4d6f-9e7b-6f31a10b69dc.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239420-8ffddc29-6047-49f1-885e-3c7aa0540d90.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239422-66a16d24-2eae-4111-8948-ac5048e5da16.jpg",
+                "https://user-images.githubusercontent.com/116287208/220239424-32a8e2f6-6e7c-4b6a-b479-b19713d9a7e0.jpg"
+            ],
+            "rooms": 4,
+            "space": "131m²",
+            "vacancy": 2,
+            "description": [
+                "A casa de condomínio está localizado no bairro Lagoa Seca possui 131 metros quadrados com 4 quartos sendo 3 suites e 3 banheiros",
+                "Condomínio : como 2 piscina, espaço fitness, sala de jogos, playground, deck gourmet"
+            ]        
+        },
+        {
+            "id": 9,
+            "value": "480.000,00",
+            "adress": "Rua José Francisco do Nascimento, Betolândia, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220240825-950eaa07-da30-42e2-8e50-6d465d9a887f.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220240831-6b5596b6-d390-4fd9-994b-4f9bfc12815d.jpg",
+                "https://user-images.githubusercontent.com/116287208/220240834-a69e7380-8ab9-4427-b90e-bc6e373c86ca.jpg",
+                "https://user-images.githubusercontent.com/116287208/220240836-b2c7ec19-effa-41ba-8b10-4e7643deb27e.jpg",
+                "https://user-images.githubusercontent.com/116287208/220240837-453cde96-4189-4b4a-8740-19a7a4ab020e.jpg",
+                "https://user-images.githubusercontent.com/116287208/220240839-49d210cc-c1d3-470a-a8a7-5081d6c8db07.jpg",
+                "https://user-images.githubusercontent.com/116287208/220240842-ab2dcda6-c9fe-4b72-8162-cac2fce427c2.jpg",
+                "https://user-images.githubusercontent.com/116287208/220240844-eae9c5f2-6d8e-42aa-b6d7-47fb9971be46.jpg"
+            ],
+            "rooms": 3,
+            "space": "195m²",
+            "vacancy": 2,
+            "description": [
+                "Localização privilegiada, a 100m² da Av. Castelo Branco",
+                "Bairro Betolandia",
+                "Juazeiro do Norte uma cidade boa para se morar excelente para investir",
+                "Piscina com prainha ",
+                "Deck com churrasqueira",
+                "Lavabo",
+                "3 quartos, sendo 2 suítes, sendo 1 master e a outra reversível ",
+                "Infraestrutura para ar-condicionado splint",
+                "Acabamento premium ",
+                "Sala com pé direito duplo",
+                "Iluminação toda em led",
+                "Garagem para 4 carros",
+                "Piso Porcelanato",
+                "Balcão da cozinha em granito ",
+                "Pias dos banheiros esculpidas em travertino",
+                "Banheiros todo em porcelanato com nichos em travertino",
+                "Portão de alumínio ",
+                "Terreno 7x 40 = 280"
+            ]        
+        },
+        {
+            "id": 10,
+            "value": "830.000,00",
+            "adress": "Rua Maria de Melo Queiroz, Cidade Universitária, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220241516-194d0952-910f-433b-9b33-e8bbaea55cee.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220241520-79b378e7-386d-455b-9148-a0b41ea11e5c.jpg",
+                "https://user-images.githubusercontent.com/116287208/220241521-cfb6d083-4308-466a-904f-b5a78b640c57.jpg",
+                "https://user-images.githubusercontent.com/116287208/220241524-52218318-0f92-479c-a351-0cfcda4c335c.jpg",
+                "https://user-images.githubusercontent.com/116287208/220241527-bc4fafcd-fdad-4ba2-99bd-141180ad85a4.jpg",
+                "https://user-images.githubusercontent.com/116287208/220241531-5de66a83-8ad6-4bad-b908-049ac1a628c9.jpg",
+                "https://user-images.githubusercontent.com/116287208/220241533-56de777b-6230-4e1e-b138-43f104bb8556.jpg",
+                "https://user-images.githubusercontent.com/116287208/220241534-a95e48ac-7308-4043-9a4a-43e7b5d9a3f7.jpg"
+            ],
+            "rooms": 4,
+            "space": "210m²",
+            "vacancy": 4,
+            "description": [
+                "localizado próximo as melhores Universidade do cariri ",
+                "Localização de grande valorização ",
+                "Terreno com medida de 10x26,50 m²;",
+                "3 Suíte sendo uma Master com closet (piso superior );",
+                "1 Sala home office no (Térreo); ",
+                "Piscina de alvenaria;",
+                "Varanda gourmet;",
+                "4 vagas de garagem;",
+                "Acabamanto Super Premium;"
+            ]        
+        },
+        {
+            "id": 11,
+            "value": "293.000,00",
+            "adress": "Rua José Tomáz de Menezes, Limoeiro, Juazeiro do Norte - Ceará",
+            "title": "APARTAMENTO À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220242115-0956f7c0-4c59-4174-a124-89d396c24e4f.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220242119-6373012f-a0e5-41c0-aa2d-6f566dee2b76.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242121-f3d2c5eb-d49e-4e86-b2bb-12c5bae0344f.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242123-97b932c7-0121-4c80-80e2-66687482e631.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242125-7915cbf1-b28f-4959-825c-8bd19b4f3d19.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242130-45029a26-44b5-4237-8711-6be93a5bbec8.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242138-91f13f3b-69a6-4c1e-902d-5749a046ccb8.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242142-a8d961d0-09c0-4dc0-b332-71b719beabd3.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242143-4ee490be-7a49-46d6-8c22-fbbe35987236.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242145-2089b314-ea1b-46ca-9a46-dacd27fbb0a6.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242148-9f1f86d4-1b85-4d88-a5b1-d00cfd0561ab.jpg"
+            ],
+            "rooms": 3,
+            "space": "68m²",
+            "vacancy": 2,
+            "description": [
+                "Compro GANHOU",
+                "Na compra de seu Apê novo, GANHA um CARRO zeno km na Garagem ",
+                "Residencial Maria Altair",
+                "Excelente localização próximo Av Castelo Branco a 5 minutos do shopping de Juazeiro do Norte-CE ",
+                "Agende uma visita e venha se encantar!"
+            ]        
+        },
+        {
+            "id": 12,
+            "value": "170.000,00",
+            "adress": "Rua Antônio Castro Neto, São José, Juazeiro do Norte - Ceará",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/220242793-ada6161a-fdc7-4b38-b832-f6b04dbaffed.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220242796-085ee709-89c5-4610-807a-6fc8b0913da2.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242798-0c057fff-07b1-4dd7-b9fd-04bb4a2cdc21.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242800-dcaff7e6-e17c-4b4b-a888-e93022427cec.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242803-ec956c24-e225-4b4a-b905-9cb89008a9f0.jpg",
+                "https://user-images.githubusercontent.com/116287208/220242806-83f75d36-c8af-4406-a966-d4385a74a501.jpg"
+            ],
+            "rooms": 3,
+            "space": "120m²",
+            "vacancy": 2,
+            "description": [
+                "A casa no bairro São José tem 120 metros quadrados com 3 quartos sendo 2 suites e 3 banheiros"
+            ]        
+        },
+
+
+        {
+            "id": 13,
+            "value": "200.000,00",
+            "adress": "Edifício UNIQUE",
+            "title": "2 SALAS COMERCIAIS NO EDIFÍCIO UNIQUE",
+            "cover": "https://user-images.githubusercontent.com/116287208/220243817-94c1fa65-9175-42fe-bdd7-cef25bc8543f.jpg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/220243818-f8b5c05f-647f-4495-964a-b8d6b46918b6.jpg",
+                "https://user-images.githubusercontent.com/116287208/220243821-02772aa0-8cd8-47fb-9460-d3edcefebbcc.jpg",
+                "https://user-images.githubusercontent.com/116287208/220243825-72af4ab4-54c4-4b1d-9614-d9975565ab0a.jpg"
+            ],
+            "rooms": 0,
+            "space": "28m²",
+            "vacancy": 0,
+            "description": [
+                "16⁰ andar, metragem 28 m",
+                "1 banheiro ",
+                "O condomínio dispõe uma amplo Hall na recepção com controle de acesso 24",
+                "5 elevadores de última geração em cada Torres.",
+                "Auditório",
+                "Estacionamento tudo no mesmo sobre solo.",
+                "403 sala comercial ",
+                "21pavimentos",
+                "20 loja no piloto e na mezanino"
+            ]        
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+@import "../../styles/variables.scss";
+
+.imovelContainer {
+    background-color: $secondary-color;
+    min-height: 80vh;
+    padding: 20px 50px;
+    text-align: center;
+    border-radius: 20px;
+    border: 5px solid #454545;
+    box-shadow: 5px 10px 90px #dbba7496;
+
+    @media screen and (min-width: 0px) and (max-width: 674px) {
+        & {
+            padding: 20px 3px;
+        }
+    }
+
+    h1 {
+        color: #212121;
+        font-weight: 700;
+        text-transform: capitalize;
+        text-align: start;
+        color: $background-color;
+        text-shadow: 2px 2px 2px $black-color;
+    }
+
+    .value {
+        text-align: start;
+        text-transform: uppercase;
+        color: $background-color;
+        width: fit-content;
+        padding-right: 30px;
+        border-radius: 10px 0px 120px 10px;
+        padding-bottom: 10px;
+        border-bottom: 5px solid $black-color;
+        text-shadow: 2px 2px 2px $black-color;
+
+        span {
+            color: #1a9e3b;
+            font-weight: bolder;
+        }
+    }
+
+    .characteristicsHouse {
+        display: flex;        
+        flex-wrap: wrap;
+        width: fit-content;
+
+        .item {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid $black-color;
+            background-color: $background-color;
+            margin-left: 10px;
+
+            img {
+                width: 40px;
+            }
+
+            p {
+                margin-left: 5px;
+                padding-top: 12px;
+                font-weight: bold;
+            }
+        }
+    }
+
+    .aboutImovelContainer {
+        min-height: 30vh;
+
+        h2 {
+            font-weight: bold;
+            color: $background-color;
+        }
+    }
+
+    h3 {
+        text-align: start;
+        text-transform: uppercase;
+        font-weight: bolder;
+        letter-spacing: 3px;
+    }
+
+    .descriptionUl {
+        list-style: none;
+        text-align: start;
+        background-color: rgba(255, 254, 254, 0.199);
+        border-left: 6px solid $black-color;
+        padding: 20px 20px;
+        border-radius: 25px 36px 93px 32px;
+        height: 90%;
+
+        @media screen and (min-width: 768px) and (max-width: 991px) {
+            & {
+                height: 60%;
+            }
+        }
+
+        li {
+            color: $text-color;
+
+            @media screen and (min-width: 768px) and (max-width: 991px) {
+                & {
+                    font-size: 0.7em;
+                }
+            }
+        }
+    }
+
+    .observationUl {
+        list-style: none;
+        text-align: start;
+        background-color: $background-color;
+        padding: 20px 20px;
+        margin-top: 20px;
+        border-radius: 25px 36px 93px 32px;
+
+        @media screen and (min-width: 0px) and (max-width: 673px) {
+            & {
+                margin: 0px 10px;
+                width: fit-content;
+            }
+        }
+
+
+        li {
+            color: $text-color;
+        }
+    }
+
+}
+
+#carousel {
+
+
+    h1 {
+        text-align: center;
+        font-weight: bolder;
+        color: $text-color;
+    }
+
+    .imgsCarouselContainer {
+        max-height: 60vh;
+        box-shadow: 5px 10px 90px #dbba7496;
+
+        @media screen and (min-width: 0px) and (max-width: 944px) {
+            & {
+                max-height: 70vh;
+            }
+        }
+
+        .imgCarousel {
+            width: fit-content;
+            height: 60vh;
+            background-position: center;
+            background-size: cover;
+            object-fit: cover;
+
+            @media screen and (min-width: 0px) and (max-width: 944px) {
+                & {
+                    max-height: 40vh;
+                }
+            }
+        }
+    }
+
+
+    .btnCarousel {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+
+}
+
+.familyDream {
+    border-bottom: 15px solid $black-color;
+
+    .familyDreamTitle {
+        color: $secondary-color;
+        text-shadow: 2px 2px 2px $black-color;
+    }
+
+    img {
+        width: 500px;
+
+        @media screen and (min-width: 1352px) and (max-width: 1427px) {
+            & {
+                width: 500px;
+            }
+        }
+
+        @media screen and (min-width: 993px) and (max-width: 1351px) {
+            & {
+                width: 400px;
+            }
+        }
+
+        @media screen and (min-width: 726px) and (max-width: 989px) {
+            & {
+                width: 500px;
+            }
+        }
+
+        @media screen and (min-width: 540px) and (max-width: 725px) {
+            & {
+                width: 500px;
+            }
+        }
+
+        @media screen and (min-width: 409px) and (max-width: 539px) {
+            & {
+                width: 400px;
+            }
+        }
+
+        @media screen and (min-width: 312px) and (max-width: 408px) {
+            & {
+                width: 300px;
+            }
+        }
+
+        @media screen and (min-width: 0px) and (max-width: 311px) {
+            & {
+                width: 200px;
+            }
+        }
+
+
+    }
+
+    h1 {
+        color: $black-color;
+        font-weight: bold;
+    }
+
+    h4 {
+        color: $black-color;
+        font-weight: 400;
+    }
+
+
+}
+
+#contactImovel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .midiaContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+    }
+
+    h2 {
+        color: $text-color;
+        font-weight: bolder;
+    }
+
+    a {
+        text-decoration: none;
+        color: $text-color;
+    }
+
+    img {
+        width: 60px;
+    }
+
+    p {
+        color: $text-color;
+        width: 250px;
+    }
+}

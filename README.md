@@ -11,7 +11,7 @@
 <h2><strong> 📝 Descrição:</strong></h2>    
 
 Site que vendi para uma corretora de imóveis que tinha o objetivo de divulgar seus serviços e imóveis, desenvolvi o site fazendo um arquivo JSON para usar como API, o site está responsivo e com um design agrádavel e interativo. <br><br>
-<strong>Acesse o site e aproveite: https://ciane-corretora.vercel.app </strong>
+<strong>Acesse o site e aproveite: https://regiane-corretora.vercel.app </strong>
 <br>
 <br>
 <h2><strong>🚀 Tecnologias usadas:</strong></h2>   

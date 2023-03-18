@@ -428,6 +428,35 @@
                 "21pavimentos",
                 "20 loja no piloto e na mezanino"
             ]        
+        },
+         {
+            "id": 14,
+            "value": "315.000,00",
+            "adress": "Excelente localização próximo Edifício JK, no bairro Jardim Gonzaga",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/226132610-32bf3d3b-5f15-433e-9a72-43b89ac2052d.jpeg",
+            "imgs": [
+                "https://user-images.githubusercontent.com/116287208/226132608-2dea4629-de5a-443c-a84e-196748002543.jpeg",
+                "https://user-images.githubusercontent.com/116287208/226132609-87d0e5b7-4c5c-4269-aea9-6988d5af37bb.jpeg",
+                "https://user-images.githubusercontent.com/116287208/226132611-b4b9e899-b2c1-4994-85e7-9a1ef91741bf.jpeg",
+                "https://user-images.githubusercontent.com/116287208/226132612-e01a0008-3f24-4d9a-8461-bd8fa0b70f61.jpeg",
+                "https://user-images.githubusercontent.com/116287208/226132614-09877337-1831-4415-a0ee-2f58d5c8b0da.jpeg",
+                "https://user-images.githubusercontent.com/116287208/226132615-88faf918-451c-41b4-9797-262ff9dc9cc6.jpeg",
+                "https://user-images.githubusercontent.com/116287208/226132616-6b9e8c55-6ceb-4296-b8a7-523364147af6.jpeg",
+                "https://user-images.githubusercontent.com/116287208/226132617-c12b00c2-5c0a-4905-b332-6780610e4d97.jpeg",
+                "https://user-images.githubusercontent.com/116287208/226132618-8a294e46-ed51-4688-9af5-1c672b86d5b4.gif",
+                "https://user-images.githubusercontent.com/116287208/226132620-c7b13b62-37ba-48c1-911d-3ac9c2396477.gif"
+            ],
+            "rooms": 3,
+            "space": "198m²",
+            "vacancy": 2,
+            "description": [
+                "Excelente localização próximo Edifício JK",
+                "Bairro Jardim Gonzaga",
+                "3 quatros sendo 2 suíte ",
+                "Pé direito estendido ",
+                "Investimento R$ 315 mil"
+            ]        
         }
     ]
 }

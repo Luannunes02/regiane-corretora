@@ -496,6 +496,45 @@
                 "Aceitamos financiamento bancário",
                 "Agende sua visita! (88) 98877-9576 "
             ] 
+        },
+        {
+            "id": 16,
+            "value": "579.000,00",
+            "adress": "Localização de grande valorização próximo Universidade Unileão, no bairro Lagoa seca",
+            "title": "CASA À VENDA",
+            "cover": "https://user-images.githubusercontent.com/116287208/235330731-55118d7d-9a71-46c1-aaeb-ff3ba2b43ccd.jpeg",
+            "imgs": [
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/2020a863-f0cf-4a6a-92d4-35228a13ead0",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/ebea41fd-4a73-4f88-8c00-87adc8933f5c",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/609b27fb-c22e-4618-886c-9530f9755a9a",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/7c8a347a-e0a7-403e-ab0c-fcd70dc6b596",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/c47fe567-f7d8-4b90-8cdc-7d82de6eb7a2",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/46ab32f6-8e5e-42c2-a10f-d7fc811469a0",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/d2ff6b4d-86fc-4082-9cad-9540e895a3bd",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/de9bbf3e-7f1a-462b-b22d-4bfc8f2bd4bf",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/42979b47-5e8a-4f82-bee0-c04db16be506",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/0a7e0596-d02b-40b7-85f9-ab5a6b99dd48",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/b31ee882-bc23-4d60-aaa2-9b74618e75d1",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/ba0379ad-f7d6-4a9c-906d-fb9433313be3",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/11f1a61f-19c8-43c1-8751-9fe5260c29df",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/35a6070d-c89d-475f-ae0a-479dd1640797",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/5d103ba6-f4cf-4a74-80b0-73bd3460f0e7"
+            ],
+            "rooms": 3,
+            "space": "134m²",
+            "vacancy": 2,
+            "description": [
+                "3 Suíte sendo uma Master com closet; ",
+                "Piscina de alvenaria;",
+                "Varanda gourmet;",
+                "Lavabo;",
+                "2 vagas de garagem;",
+                "Sala pé direito duplo 4m;",
+                "Toda na Laje;",
+                "Acabamanto Super Premium;",
+                "Área construída 134m²",
+                "uma amplitude de terreno de 11,4x20m;"
+            ] 
         }
     ]
 }

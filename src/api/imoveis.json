@@ -534,6 +534,28 @@
                 "Área construída 134m²",
                 "uma amplitude de terreno de 11,4x20m;"
             ] 
+        },
+        {
+            "id": 17,
+            "value": "349.000,00",
+            "adress": "Cidade Universidade, próximo a Universidade Unileão",
+            "title": "CASA À VENDA",
+            "cover": "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/408a7cfb-a66a-4eeb-a1ee-e039d7466238",
+            "imgs": [
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/d777570e-b780-476f-b946-b52cfeccfd3b",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/7ce7cc23-758d-41e3-921a-2b733e34a02a",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/f40eab37-418b-4436-8bf4-4370606a3ff3",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/a0b742b2-7aa4-4fcd-9777-ea269556e0ea",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/ad3f09da-76d3-496c-982a-9ebfae2a221e",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/5ced5ebd-6cea-4c1f-bb57-d0761b8af469",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/90f82674-1a1a-472b-bbf1-887da4587756"
+            ],
+            "rooms": 3,
+            "space": "134m²",
+            "vacancy": 2,
+            "description": [
+                "2 vagas de garagem;"
+            ] 
         }
     ]
 }

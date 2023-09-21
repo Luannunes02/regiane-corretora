@@ -558,6 +558,53 @@
                 "3 Quartos sendo 2 suítes;",
                 "Área construída e 125m²"
             ] 
+        },
+        {
+            "id": 18,
+            "value": "395.000,00",
+            "adress": "No bairro Jardim Gonzaga",
+            "title": "CASA À VENDA",
+            "cover": "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/5bf78cfd-490f-4866-9602-8ea6865b5006",
+            "imgs": [
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/d56c5f1a-5f7b-4089-8947-8acb841761dc",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/cb0bac8a-22a5-40e3-b3e5-c91259c826c7",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/02a22931-455b-42c1-bb20-a075b4218f8b",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/fcfd37f1-44d0-4408-ba28-1b2ef45721d5",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/5e9774e3-19e3-4f0e-9d68-6473bd473492",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/40904d62-61ed-4cf9-af01-5dea12a85e2a",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/7d0fdcbd-805f-4337-b3c2-f8d4ffa2fdbe",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/cbcc9f9e-41fa-4633-af5f-b6e9967b1220",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/2de43e16-e050-44e7-9f5b-07395da220f5",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/2679a6fd-f3bc-4853-ad81-fd718bcf8268",
+                "https://github.com/Luannunesesb01/regianeAPI/assets/116287208/e7ae39a1-b0e4-436a-94de-162376ebf816"
+            ],
+            "rooms": 3,
+            "space": "133m²",
+            "vacancy": 2,
+            "description": [
+                "Casa acabamento premium",
+                "Fachada moderna",
+                "Sala com pé direito de 5M com vidro refletivo ",
+                "Laje em toda a casa",
+                "Forro com sanca",
+                "Iluminação moderna toda em LED",
+                "Deck  com churrasqueira ",
+                "Piscina ",
+                "Garagem para dois carros",
+                "Piso em porcelanato",
+                "3 Suites, sendo 1 suíte com closet, 1 suíte comum  e outra",
+                "suíte reversível",
+                "Chuveiros elétricos modernos",
+                "Box nos  banheiros ",
+                "Portão em alumínio com motor",
+                "Cerca elétrica e concertina",
+                "Porta da frente pau D’arco pivotante",
+                "Grama ",
+                "2 caixas d’ água 1.000 L",
+                "Terreno 7,5x27",
+                "Área construída 133 m2 ",
+                "Excelente localização"
+            ] 
         }
     ]
 }
